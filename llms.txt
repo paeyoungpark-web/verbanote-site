@@ -1,0 +1,11 @@
+# VerbaNote — 온디바이스 AI 회의록
+
+> 회의·강의를 녹음하면 온디바이스 AI가 전사하고 요약·결정사항·액션아이템·구간 강의록으로 정리합니다.
+
+## 핵심
+- 플랫폼: macOS, iOS
+- 특징: 100% 온디바이스 처리, 서버·업로드 없음
+- App Store: https://apps.apple.com/kr/app/verbanote/id6799537760
+- 홈페이지: https://verbanote.lupa.kr
+- 만든 사람: 박배영 (Paeyoung Park)
+- 포트폴리오: https://apps.lupa.kr
